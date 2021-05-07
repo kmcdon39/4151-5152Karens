@@ -2,6 +2,7 @@
 # Members: Kevin McDonald, Ara Chung, Manuel Cruz, Youssef Shehata
 
 Project Stage 1 (1 Point):
+    
     There are a wide range of interesting applications in the domain of computer vision. Good course project topics will have to meet few mandatory criteria:
 
     Use image or video data as primary data source
@@ -22,6 +23,7 @@ Project Stage 1 (1 Point):
 
 
 project Stage 2 (10 points):
+    
     Students Should submit a document including following things:
 
     2.1 Research
@@ -95,12 +97,15 @@ project Stage 2 (10 points):
 
 
 
-Project stage 3 (15 points): Modeling
-    Students should build their models, conduct experiments, look at the literature you reviewed for ideas, and submit a Well-documented, visually pleasing, and clear jupyter notebook presenting results.
+Project stage 3 (15 points): 
+
+        Modeling
+        Students should build their models, conduct experiments, look at the literature you reviewed for ideas, and submit a Well-documented, visually pleasing, and clear jupyter notebook presenting results.
 
 
 
 Project stage 4 (14 points):
+
         A video recording of the presentation + demo of your technology. Briefly tell the story of the problem you set out to solve, what you learned about the problem in each of the previous stages, and demo the solution that you have developed. In addition to the presentation, final deliverables include a public Github repo containing a well-documented, visually pleasing, and clear implementation of your solution, final presentation, and deliverables from previous stages. Here are the guidelines for the video recording:
 
     Every member of the project records a video explaining the part he/she contributed to the project.
